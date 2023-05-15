@@ -1,0 +1,15 @@
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\bin\Debug\net6.0\1204ConsoleApp.exe
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\bin\Debug\net6.0\1204ConsoleApp.deps.json
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\bin\Debug\net6.0\1204ConsoleApp.runtimeconfig.json
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\bin\Debug\net6.0\1204ConsoleApp.dll
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\bin\Debug\net6.0\ref\1204ConsoleApp.dll
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\bin\Debug\net6.0\1204ConsoleApp.pdb
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\obj\Debug\net6.0\1204ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\obj\Debug\net6.0\1204ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\obj\Debug\net6.0\1204ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\obj\Debug\net6.0\1204ConsoleApp.AssemblyInfo.cs
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\obj\Debug\net6.0\1204ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\obj\Debug\net6.0\1204ConsoleApp.dll
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\obj\Debug\net6.0\ref\1204ConsoleApp.dll
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\obj\Debug\net6.0\1204ConsoleApp.pdb
+C:\Users\Shuyu\OneDrive\桌面\嘉利-合庫開發資料\C#\1204ConsoleApp\1204ConsoleApp\obj\Debug\net6.0\1204ConsoleApp.genruntimeconfig.cache
