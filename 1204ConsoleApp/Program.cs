@@ -13,27 +13,13 @@ static int RomanToInt(string s)
     {
         switch (s[i])
         {
-            case 'I':
-                num = 1;
-                break;
-            case 'V':
-                num = 5;
-                break;
-            case 'X':
-                num = 10;
-                break;
-            case 'L':
-                num = 50;
-                break;
-            case 'C':
-                num = 100;
-                break;
-            case 'D':
-                num = 500;
-                break;
-            case 'M':
-                num = 1000;
-                break;
+            case 'I':num = 1;break;
+            case 'V':num = 5;break;
+            case 'X':num = 10;break;
+            case 'L':num = 50;break;
+            case 'C':num = 100;break;
+            case 'D':num = 500;break;
+            case 'M':num = 1000;break;
         }
         total += num;
         if ( i < s.Length-1)
@@ -41,27 +27,13 @@ static int RomanToInt(string s)
             string test = s[i] + s[i + 1].ToString();
             switch (s[i] + s[i + 1].ToString())
             {
-                case "IV":
-                    minus = 2;
-                    break;
-                case "IX":
-                    minus = 2;
-                    break;
-                case "XL":
-                    minus = 20;
-                    break;
-                case "XC":
-                    minus = 20;
-                    break;
-                case "CD":
-                    minus = 200;
-                    break;
-                case "CM":
-                    minus = 200;
-                    break;
-                default: minus = 0;
-                    break;
-
+                case "IV":minus = 2;break;
+                case "IX":minus = 2;break;
+                case "XL":minus = 20;break;
+                case "XC":minus = 20;break;
+                case "CD":minus = 200;break;
+                case "CM":minus = 200;break;
+                default: minus = 0;break;
             }
             total -= minus;
         }
