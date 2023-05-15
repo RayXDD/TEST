@@ -49,5 +49,6 @@ static string LongestCommonPrefix(string[] strs)
         CommonChar=strs[i].Intersect(strs[i+1]);
         string Common = String.Join("", CommonChar);
     }
+    return "1";
 
 }
