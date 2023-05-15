@@ -40,3 +40,14 @@ static int RomanToInt(string s)
     }
     return total;
 }
+
+static string LongestCommonPrefix(string[] strs)
+{
+    for (int i = 0; i < strs.Length; i++)
+    {
+        IEnumerable<char> CommonChar;
+        CommonChar=strs[i].Intersect(strs[i+1]);
+        string Common = String.Join("", CommonChar);
+    }
+
+}
